@@ -32,12 +32,12 @@ The system uses a **hybrid deep learning architecture**:
 ## 📁 Repository Structure
 
 /Bug-Priority-prediction-using-hybrid-deep-learning-model
-├── project_bug_priority.ipynb # Main notebook with model code
-├── software_engineering.png # Project image/logo
-├── software_engeeneering_project[1].pptx # Presentation slides
-├── se final report .docx # Project report document
-├── A_Deep_Learning_Based_Bug_Priority_.pdf # Reference research paper 1
-└── A_Dataset_of_High_Impact_Bugs_...pdf # Reference research paper 2
+├──  project_bug_priority.ipynb # Main notebook with model code
+├──  software_engineering.png # Project image/logo
+├──  software_engeeneering_project[1].pptx # Presentation slides
+├──  se final report .docx # Project report document
+├──  A_Deep_Learning_Based_Bug_Priority_.pdf # Reference research paper 1
+└──  A_Dataset_of_High_Impact_Bugs_...pdf # Reference research paper 2
 
 
 ## 🧪 How to Run
@@ -49,9 +49,9 @@ The system uses a **hybrid deep learning architecture**:
 ## 📈 Output & Evaluation
 
 - Model is evaluated using metrics:
- - Accuracy 
- - Precision, Recall, F1-Score
- - Confusion Matrix
+  -  Accuracy 
+  -  Precision, Recall, F1-Score
+  -  Confusion Matrix
 - Visualizations are provided for class distribution and model performance.
 
 ## 📚 Reference Papers
