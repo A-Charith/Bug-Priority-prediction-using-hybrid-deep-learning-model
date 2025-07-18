@@ -48,16 +48,16 @@ The system uses a **hybrid deep learning architecture**:
 
 ## 📈 Output & Evaluation
 
--Model is evaluated using metrics:
- -Accuracy 
- -Precision, Recall, F1-Score
- -Confusion Matrix
--Visualizations are provided for class distribution and model performance.
+- Model is evaluated using metrics:
+ - Accuracy 
+ - Precision, Recall, F1-Score
+ - Confusion Matrix
+- Visualizations are provided for class distribution and model performance.
 
 ## 📚 Reference Papers
 
--A Deep Learning-Based Bug Priority Prediction
--A Dataset of High-Impact Bugs
+- A Deep Learning-Based Bug Priority Prediction
+- A Dataset of High-Impact Bugs
 
 ## 📅 Last Updated
 
